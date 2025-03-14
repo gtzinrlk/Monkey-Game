@@ -1,0 +1,624 @@
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\Silxvaaz\source\repos\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\Pedro\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\Pedro\Documents\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\maria clara\Downloads\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\Silxvaaz\Desktop\bla\MonkeyGame\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\Silxvaaz\Desktop\MACACO\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\pedro\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+D:\Programação\SCRIPTS C#\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\maria clara\Downloads\MACACO\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\pedro\Downloads\versao backup\MACACO\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\gusta\Downloads\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\gusta\OneDrive\Área de Trabalho\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+D:\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuInicial.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.MenuPersonagens.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+D:\Programação\SCRIPTS C#\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\victo\OneDrive\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\victo\OneDrive\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\victo\OneDrive\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\victo\OneDrive\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CopyComplete
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuPersonagem.resources
+D:\Programação\SCRIPTS C#\MonkeyGameATTult\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuPersonagem2.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuPersonagem.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuPersonagem2.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.Up2Date
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\gtzin\Desktop\MonkeyGame (1)\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.exe
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.deps.json
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.runtimeconfig.json
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\NAudio.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Asio.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Core.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Midi.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\NAudio.Wasapi.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinForms.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\NAudio.WinMM.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\System.Data.SqlClient.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Data.SqlClient.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.AssemblyReference.cache
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Introdução.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\Jogo_do_macaco___feira.Jogo.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuAdicionarPontos.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuCredito.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuExtras.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuJogo.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuPersonagem.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuPersonagem2.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.MenuRank.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.Properties.Resources.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.SeleçãodeMapa.resources
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.GenerateResource.cache
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfoInputs.cache
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.AssemblyInfo.cs
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.CoreCompileInputs.cache
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.sourcelink.json
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.csproj.Up2Date
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\refint\MonkeyGame.dll
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.pdb
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\MonkeyGame.genruntimeconfig.cache
+C:\Users\gtzin\source\repos\gtzinrlk\Monkey-Game\MonkeyGame\obj\Debug\net6.0-windows\ref\MonkeyGame.dll
